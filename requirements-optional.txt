@@ -1,0 +1,7 @@
+# GlobalPulse - Optional Dependencies
+# Optional library for Section 7: Association Rule Mining (Apriori algorithm)
+# If omitted, GlobalPulse automatically handles its absence and skips Apriori.
+# Verified on Python 3.12.6
+
+mlxtend==0.25.0
+
